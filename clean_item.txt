@@ -1,0 +1,20 @@
+
+############ clean item in pc ###########
+%temp%
+temp
+recent
+prefetch
+cleanmgr
+
+
+################ screen shot #############
+# window + shift + s
+
+# window + g
+ 
+# window + alt + r !!! save video
+
+
+
+
+

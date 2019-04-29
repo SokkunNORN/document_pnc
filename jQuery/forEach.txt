@@ -1,0 +1,13 @@
+//const students = ["chompey", "chompa", "romdul", "bopha", "kolab", "sreynech"];
+
+// function expresion
+// let counStudent = function(student){
+//         console.log(student);
+// }
+
+// students.forEach(counStudent);
+
+
+// students.forEach(function(stu , index){
+//     console.log( ` Value of array : "${stu}" and index of it is : "${index}" `);
+// });
